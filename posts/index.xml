@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Keagster1&#39;s Blog</title>
+    <title>Posts on Keagan&#39;s Blog</title>
     <link>https://keagster1.github.io/posts/</link>
-    <description>Recent content in Posts on Keagster1&#39;s Blog</description>
+    <description>Recent content in Posts on Keagan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 11:03:06 -0500</lastBuildDate>
     <atom:link href="https://keagster1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introductions are in Order</title>
+      <link>https://keagster1.github.io/posts/introductions/</link>
+      <pubDate>Sun, 11 Aug 2024 11:03:06 -0500</pubDate>
+      <guid>https://keagster1.github.io/posts/introductions/</guid>
+      <description>Introduction&#xD;Link to heading&#xD;Hello and welcome to my blog!&#xA;For my blog, I will be writing about my journey both as a Software Engineer but also as a person. I hope you enjoy the content I put out and I hope you learn something from it!&#xA;More About Me&#xD;Link to heading&#xD;I was born in the 90&amp;rsquo;s, a time when computers were just beginning to enter the mainstream.</description>
+    </item>
   </channel>
 </rss>
